@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\bin\\Debug",
+    "\\API\\bin\\Debug\\netcoreapp3.1",
+    "\\API\\Data",
+    "\\API\\Data\\Migrations",
+    "\\API\\obj\\Debug"
+  ],
+  "PreviewInSolutionExplorer": false
+}
